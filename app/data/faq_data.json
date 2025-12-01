@@ -1,0 +1,158 @@
+[
+    {
+        "id": "gs-1",
+        "category": "Getting Started",
+        "question": "How do I register for Fleety?",
+        "answer": "To register for Fleety: 1. Visit our website and click the 'Sign Up' button on the login page. 2. Enter your email address and create a strong password. 3. Provide your full name and company details. 4. Check your email and click the verification link to activate your account. 5. Log in and start setting up your fleet by adding vehicles. No credit card required for the 14-day free trial!"
+    },
+    {
+        "id": "gs-2",
+        "category": "Getting Started",
+        "question": "How do I reset my password?",
+        "answer": "If you forgot your password: 1. Go to the login page and click 'Forgot Password'. 2. Enter the email address associated with your account. 3. Check your email for a password reset link (check spam folder if needed). 4. Click the link and follow the instructions to create a new password. 5. Use your new password to log in to Fleety."
+    },
+    {
+        "id": "gs-3",
+        "category": "Getting Started",
+        "question": "How do I create an account?",
+        "answer": "To create an account, click on the \"Sign Up\" button on the login page. Enter your email address, create a password, and provide your full name. Once you verify your email, your account will be activated and you can start using Fleety."
+    },
+    {
+        "id": "gs-4",
+        "category": "Getting Started",
+        "question": "What information do I need to add a vehicle?",
+        "answer": "To add a vehicle, you need: Make (e.g., Toyota), Model (e.g., Camry), Year, Color (optional), License Plate (optional), Current Mileage, and VIN (optional). All required fields must be filled to add the vehicle successfully."
+    },
+    {
+        "id": "gs-5",
+        "category": "Getting Started",
+        "question": "Can I add multiple vehicles?",
+        "answer": "Yes! Fleety allows you to manage unlimited vehicles under one account. Each vehicle has its own maintenance history, reminders, and reports. You can easily switch between vehicles from the dashboard."
+    },
+    {
+        "id": "gs-6",
+        "category": "Getting Started",
+        "question": "How do I log in to my account?",
+        "answer": "Visit the login page and enter the email address and password you used during sign-up. If you forget your password, click \"Forgot Password\" to reset it via email."
+    },
+    {
+        "question": "How do I add a new vehicle to my fleet?",
+        "answer": "Navigate to the 'Vehicles' tab, click 'Add Vehicle', and fill in the vehicle details including registration number, make/model, and vehicle type. Click 'Save' to add it to your fleet."
+    },
+    {
+        "question": "How do I track maintenance reminders?",
+        "answer": "Go to 'Maintenance' > 'Reminders'. Set up automatic reminders based on mileage or date intervals. You'll receive notifications when maintenance is due."
+    },
+    {
+        "question": "How do I view fuel costs and efficiency?",
+        "answer": "In the 'Analytics' tab, select 'Fuel & Costs'. You can view fuel expenses per vehicle, efficiency trends, and compare performance across your fleet."
+    },
+    {
+        "question": "Can I export maintenance records?",
+        "answer": "Yes! Go to 'Maintenance' > 'Records', select the vehicles you want, and click 'Export'. You can export as PDF or CSV."
+    },
+    {
+        "question": "How do I invite team members to manage the fleet?",
+        "answer": "Go to 'Settings' > 'Team'. Click 'Invite Member', enter their email, and assign a role (Admin/Supervisor/Driver). They'll receive an invitation email."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept credit cards (Visa, Mastercard, Amex), bank transfers, and digital wallets. Visit 'Settings' > 'Billing' to manage payment methods."
+    },
+    {
+        "question": "Can I use Fleety with my existing ERP system?",
+        "answer": "Yes, we offer API integration with most major ERP systems. Contact our support team at support@fleety.com for integration assistance."
+    },
+    {
+        "question": "How do I generate fleet reports?",
+        "answer": "Go to 'Reports' and select the report type (Maintenance, Fuel, Usage, Costs). Customize the date range and click 'Generate'. You can download as PDF or CSV."
+    },
+    {
+        "question": "What is your data backup policy?",
+        "answer": "Your fleet data is automatically backed up daily to secure cloud servers. In case of data loss, we can restore from the most recent backup within 24 hours."
+    },
+    {
+        "question": "How do I set up driver compliance tracking?",
+        "answer": "Navigate to 'Compliance' > 'Driver Licenses'. Add drivers and their license details. The system will send reminders when licenses are expiring soon."
+    },
+    {
+        "question": "Can I track GPS location of my vehicles?",
+        "answer": "Yes, with our GPS tracking feature. Go to 'Map View' to see real-time locations of all vehicles. This feature requires compatible GPS devices installed in your vehicles."
+    },
+    {
+        "question": "Is there a free trial available?",
+        "answer": "Yes! We offer a 14-day free trial with full access to all features. No credit card required. Sign up on our website to start your trial."
+    },
+    {
+        "id": "mr-1",
+        "category": "Maintenance Records",
+        "question": "How do I add a maintenance record?",
+        "answer": "Navigate to the Maintenance page and click \"Add Maintenance\" or go to a specific vehicle and add a service record. Fill in the date, type of service, description, cost, and mileage. You can also add notes and the service provider name."
+    },
+    {
+        "id": "mr-2",
+        "category": "Maintenance Records",
+        "question": "What maintenance types are available?",
+        "answer": "Available maintenance types include: Oil Change, Tire Rotation, Brake Service, Inspection, Repair, and Other. Choose the most relevant type for your service or select \"Other\" for unlisted services."
+    },
+    {
+        "id": "mr-3",
+        "category": "Maintenance Records",
+        "question": "Can I edit or delete maintenance records?",
+        "answer": "Yes, you can edit or delete maintenance records. Go to your vehicle details, find the record in the maintenance history, and use the edit or delete option. Changes are saved immediately."
+    },
+    {
+        "id": "mr-4",
+        "category": "Maintenance Records",
+        "question": "How do I track maintenance costs?",
+        "answer": "All maintenance costs are automatically tracked and displayed in the Reports section. You can see total spending, average cost per service, and view cost trends over time. Currency preferences can be set in Settings."
+    },
+    {
+        "id": "rem-1",
+        "category": "Reminders",
+        "question": "How do I set up service reminders?",
+        "answer": "Go to a vehicle's details page, navigate to the Reminders tab, and click \"Add Reminder\". Set the service type, description, due date/mileage, and reminder threshold (how many days or miles before the due date to be notified)."
+    },
+    {
+        "id": "rem-2",
+        "category": "Reminders",
+        "question": "What types of reminders can I create?",
+        "answer": "You can create reminders for any service type (Oil Change, Tire Rotation, Inspection, etc.). Set reminders by date, mileage, or both. You can also make reminders recurring for regular maintenance."
+    },
+    {
+        "id": "rem-3",
+        "category": "Reminders",
+        "question": "How do I know when a reminder is due?",
+        "answer": "Reminders are displayed on the Reminders page with color-coded badges: Red for Overdue, Yellow for Due Soon (within threshold), Green for Upcoming. The Dashboard also shows active reminder count."
+    },
+    {
+        "id": "rem-4",
+        "category": "Reminders",
+        "question": "Can I make reminders recurring?",
+        "answer": "Yes! When creating a reminder, you can enable the \"Recurring\" option and set an interval (in miles or months). This automatically creates a new reminder after the service is completed."
+    },
+    {
+        "id": "ra-1",
+        "category": "Reports & Analytics",
+        "question": "What information is shown in Reports?",
+        "answer": "Reports display: Total Spending, Average Cost per Service, Total Maintenance Records, Spending by Service Type (pie chart), Monthly Spending Trend (line chart), and Top Expensive Services (bar chart)."
+    },
+    {
+        "id": "ra-2",
+        "category": "Reports & Analytics",
+        "question": "Can I filter reports by date range?",
+        "answer": "Currently, reports show all-time data and monthly trends. You can view monthly spending trends in the line chart to see spending patterns over time."
+    },
+    {
+        "id": "ra-3",
+        "category": "Reports & Analytics",
+        "question": "How is spending calculated?",
+        "answer": "Total spending is the sum of all maintenance costs entered. Average cost per service is total spending divided by the number of services. Both can be viewed in your preferred currency."
+    },
+    {
+        "id": "ra-4",
+        "category": "Reports & Analytics",
+        "question": "Can I export reports?",
+        "answer": "Export functionality is coming soon. For now, you can take screenshots of the reports or use your browser's print function to save reports as PDF."
+    }
+]

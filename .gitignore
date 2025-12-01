@@ -1,0 +1,28 @@
+# Bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / secrets
+.env
+.venv/
+venv/
+env/
+
+# OS / editor files
+.DS_Store
+*.swp
+*.swo
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# Database / SQLite (if used)
+*.db
+*.sqlite3
+
+# Coverage / testing
+.coverage
+htmlcov/
